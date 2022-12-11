@@ -1,0 +1,30 @@
+.BLOG__header {
+  margin-top: 60px;
+}
+
+
+
+.BLOG__headerTitleSm {
+  position: absolute;
+  top: 18%;
+  font-size: 20px;
+}
+.BLOG__headerImg{
+  width: 100%;
+  height: 450px;
+  margin-top: 80px;
+  object-fit: cover;
+}
+.BLOG__headerTitleLg {
+  position: absolute;
+  top: 20%;
+  font-size: 100px;
+}
+
+.BLOG__headerTitles {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Lora", serif;
+  color: #444;
+}
